@@ -26,3 +26,11 @@ public class SalesVariance{
     return sumSquares/(data.length - 1);
     }
     }
+
+
+
+
+//Output
+2021 variance: 208.33
+    2022 variance: 100.00
+        variance Pct: -52.00//
